@@ -1,2 +1,1 @@
-# This is my dc bot
-dc bot
+# SnowfallNetwork Discord Bot Server
